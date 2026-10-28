@@ -1,0 +1,2 @@
+# GenshinCloudStream
+解决直播姬无法捕获云原神客户端的问题
